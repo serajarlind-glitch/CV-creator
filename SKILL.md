@@ -48,7 +48,7 @@ Do not guess, assume, or generate placeholder content.
 
 ---
 
-### STEP 1 — JOB DECODING
+### STEP 1 — JOB AND COMPANY DECODING
 
 Read the job description and extract:
 - Core responsibilities (what they actually do day-to-day)
@@ -56,6 +56,18 @@ Read the job description and extract:
 - Soft skills between the lines (what kind of person fits this team)
 - Every keyword — both explicit and implied
 - What a "perfect candidate" profile looks like for this role
+
+Then research the company itself:
+- What does the company do? What is their mission, product, or service?
+- What industry are they in and what is their position in the market?
+- What values or culture do they communicate publicly?
+- Are there any recent news, growth milestones, or initiatives that
+  the candidate could reference to show genuine interest?
+
+This company research is mandatory. It feeds directly into the
+professional summary, the cover letter, and the overall targeting of
+the application. The CV and motivationsbrev must feel written FOR this
+specific company and this specific role, not generic.
 
 Then answer in one sentence: What is the single most important thing
 this employer is hiring for?
@@ -86,18 +98,34 @@ Never treat a background mismatch as a dead end.
 The Danish job market rewards team fit and transferable competence
 over perfect title match.
 
-Before mapping transferable skills, analyse what each past role actually
-involved in the country and context where it was performed. Job titles
-carry different operational realities depending on market infrastructure.
-For example, a medical representative in Albania operates in a less
-centralised pharmaceutical distribution system and is therefore
-significantly more hands-on with physical product handling, storage
-verification, inventory checks, and field-level compliance than the same
-title in Western Europe. Always investigate the real operational content
-of the role before mapping it.
+Before mapping transferable skills, you MUST perform a deep analysis of
+what each past role actually involved in the country and context where
+it was performed. This is mandatory, not optional. Job titles carry
+different operational realities depending on market infrastructure.
 
-For every past role, ask:
-- What processes, behaviours, or outcomes from this role are relevant here?
+For roles performed in Albania or similar non-Western-European markets:
+- Research or reason about the actual day-to-day duties of that role
+  in that specific market. Do not assume the duties match the same
+  job title in Denmark or Western Europe.
+- Albania has a less centralised, more hands-on business environment.
+  Roles there often involve broader operational responsibilities than
+  the equivalent title in Denmark. For example, a medical representative
+  in Albania handles physical product distribution, storage verification,
+  cold chain monitoring, inventory auditing, batch traceability, recall
+  management, and field-level compliance. A restaurant manager in Albania
+  handles full procurement, supplier negotiations, HACCP compliance,
+  staff scheduling, cost control, and regulatory inspections.
+- Extract every concrete skill, duty, and process from each Albanian role.
+  List them explicitly before attempting to map them to the target role.
+- Then bridge each extracted skill to the target role in Denmark,
+  explaining specifically how it applies. Use the language and
+  terminology of the Danish job description when describing the bridge.
+
+For every past role, regardless of country, ask:
+- What were the actual daily tasks, processes, and responsibilities?
+- What problems did this person solve and what decisions did they make?
+- What processes, behaviours, or outcomes from this role are relevant
+  to the target role?
 - How does this experience build credibility for the target role,
   even indirectly?
 
@@ -145,19 +173,24 @@ every transferable angle.
 
 Structure (in this order):
 1. Header — name, actual job title (never the target role title),
-   and contact details
-2. Professional summary — 4-5 lines, tailored to this exact role.
-   Lead with the most recent and most relevant qualifications first.
-   Work backwards in relevance. Use pivot narrative only if the industry
-   genuinely changes.
-3. Key competencies — 12-16 points, keyword-matched to the JD,
-   mix of hard and soft skills
+   phone number, email, city, and LinkedIn (if available).
+   The phone number is mandatory. If missing from the CV, ask the user
+   for it before producing the final output.
+2. Professional summary — 4-5 lines, tailored to this exact role AND
+   this exact company. Reference the company by name. Lead with the
+   most recent and most relevant qualifications first. Work backwards
+   in relevance. The summary must make clear why this candidate is
+   applying to THIS company for THIS role. Use pivot narrative only
+   if the industry genuinely changes.
+3. Skills — 12-16 points, keyword-matched to the JD, mix of hard
+   skills, soft skills, and IT tools/systems. Do NOT create a separate
+   IT section. Integrate all technical tools, software, and systems
+   directly into the Skills list alongside other competencies.
 4. Professional experience — reverse chronological, action verb + result
    bullets, transferable skills made visible in every role
 5. Education + certifications
-6. IT systems and tools
-7. Languages
-8. Personal profile — 3-4 lines written in first person, natural and
+6. Languages
+7. Personal profile — 3-4 lines written in first person, natural and
    human. Include interests and personal values as the candidate has
    shared them. This section should give a sense of the person,
    not just a list of hobbies.
@@ -173,11 +206,23 @@ Human writing rules (non-negotiable):
 - If a past role seems unrelated, reframe it — do not omit it.
   Unexplained gaps are worse than a career change.
 
+ATS formatting rules (non-negotiable):
+- The CV must be 100% plain text. No graphics, no icons, no images,
+  no logos, no horizontal lines, no dividers, no borders.
+- No tables, no columns, no multi-column layouts, no text boxes.
+  Single-column layout only from top to bottom.
+- No colour, no shading, no background fills.
+- Section headings must be plain text on their own line, using only
+  UPPERCASE or bold. No decorative formatting around headings.
+- Use simple bullet points (plain dash or asterisk) for lists.
+- The output must paste cleanly into any plain text editor and parse
+  correctly through any ATS without losing structure or content.
+
 Danish CV conventions:
 - Length: 1 page if under 5 years relevant experience, max 2 pages otherwise
 - No photo unless the posting explicitly asks for one
 - No CPR number
-- Header: name + actual profession + contact info only
+- Header: name + actual profession + phone + email + city
 
 ---
 
@@ -202,16 +247,22 @@ Then provide:
 Write a cover letter in English, 250-320 words.
 
 Structure:
-- Paragraph 1: Why this company and this specific role. If the candidate
-  is moving within the same industry, open by establishing that shared
-  professional world directly — the regulations, the standards, the stakes.
-  Do not frame it as a transition or a change. If a genuine industry pivot
-  exists, open with the pivot narrative from Step 3.
+- Paragraph 1: Why this company and this specific role. Show genuine
+  interest in the company by referencing something specific about them:
+  their mission, a recent achievement, their market position, their
+  values, or how their work connects to the candidate's professional
+  goals. This must NOT be generic. The reader must feel "this person
+  actually knows who we are and wants to work HERE, not just anywhere."
+  If the candidate is moving within the same industry, also establish
+  that shared professional world directly. If a genuine industry pivot
+  exists, weave in the pivot narrative from Step 3.
 - Paragraph 2: What they bring that directly addresses the employer's top
   2-3 needs. Lead with the strongest and most specific evidence. Name real
-  events, real numbers, real processes where possible.
-- Paragraph 3: Confident forward-looking close that connects the work
-  to why it matters.
+  events, real numbers, real processes where possible. Connect each piece
+  of evidence to a specific requirement from the job description.
+- Paragraph 3: Confident forward-looking close that connects the
+  candidate's goals to the company's direction. Show what the candidate
+  wants to contribute and grow into within this specific team.
 
 Rules:
 - Sound human and specific — zero template feel
