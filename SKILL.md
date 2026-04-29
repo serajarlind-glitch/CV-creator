@@ -73,10 +73,8 @@ Before doing anything, confirm you have received:
 
 1. The user's current CV (text or file).
 2. The job description, pasted in full. Not a link.
-3. (Optional) TT38 / DISC personality report.
-4. (Optional) Current LinkedIn "Om mig" / About text if the user wants
-   alignment between CV and LinkedIn.
 
+   
 If any required input is missing, stop and ask for it. Do not guess,
 assume, or generate placeholder content.
 
@@ -216,7 +214,7 @@ Section-level rules:
    dated. If development is genuinely part of the motivation, frame it
    as building on existing strength, not as the primary reason for
    applying.
-3. **Key competencies**. 12-16 points, keyword-matched to the JD,
+3. **Skills**. 12-16 points, keyword-matched to the JD,
    mix of hard and soft skills.
 4. **Professional experience**. Reverse chronological, action verb +
    result bullets, transferable skills made visible in every role.
