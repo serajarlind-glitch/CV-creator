@@ -122,7 +122,7 @@ Guardrail (not a flag): if a certification or qualification is shown
 with a date range, do not assume it is incomplete. If status is unclear,
 ask the candidate directly before proceeding.
 
-If a TT38 or DISC report was provided in Step 0, use it here to calibrate
+If a TT38 or DISC or Personality Profile from People Tools report was provided in Step 0, use it here to calibrate
 the red-flag narrative. The same gap reads differently for a steady
 conscientious profile than for a high-dominance one. The cover story
 should match how the candidate actually communicates.
